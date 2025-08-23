@@ -8,18 +8,18 @@ const members = [
       "images/liyu7.jpg"
     ], 
     detailImg: "images/liyu-pro1.jpg", 
-    bio: "립우가 생각한 립우의 이미지는 차갑게 생긴 바보." 
+    bio: "강민이가 생각한 강민이의 이미지는 잘생긴 강아지." 
   },
   { 
     id: 2, 
-    name: "CHUEI LI YU'S", 
+    name: "YOO KANG MIN'S", 
     profileImgs: [
       "images/liyu44.jpg", 
       "images/liyu45.jpg", 
       "images/liyu46.jpg"
     ], 
     detailImg: "images/liyu-pro2.jpg", 
-    bio: "립우가 연습하며 생긴 습관은 정신 나가며 몸 움직이기." 
+    bio: "강민이가 연습하며 생긴 습관은 주변을 많이 챙기기." 
   },
   { 
     id: 3, 
@@ -29,7 +29,7 @@ const members = [
       "images/liyu39.jpg"
     ], 
     detailImg: "images/liyu-pro3.jpg", 
-    bio: "립우가 도전하고 싶은 무대 컨셉은 뭐든지!" 
+    bio: "강민이가 도전하고 싶은 무대 컨셉은 귀여운 청량 컨셉!" 
   },
   { 
     id: 4, 
@@ -39,58 +39,58 @@ const members = [
       "images/liyu33.jpg"
     ], 
     detailImg: "images/liyu-pro4.jpg", 
-    bio: "립우의 최대 강점은 얼굴!" 
+    bio: "강민이의 최대 강점은 웃는 걸 제일 잘해요!" 
   },
   { 
     id: 5, 
-    name: "최립우", 
+    name: "유강민", 
     profileImgs: [
       "images/liyu35.jpg", 
       "images/liyu34.jpg"
     ], 
     detailImg: "images/liyu-pro5.jpg", 
-    bio: "BOYS II PLANET에서 슈퍼스타가 될 첫 STEP을 내딛겠습니다!" 
+    bio: "하루하루를 소중하게 여기고 무대 하나하나에 제가 할 수 있는 최선을 다하겠습니다!" 
   },
   { 
     id: 6, 
-    name: "CHUEI LI YU", 
+    name: "YOO KANG MIN", 
     profileImgs: [
       "images/liyu22.jpg", 
       "images/liyu23.jpg",
       "images/liyu24.jpg"
     ], 
     detailImg: "images/liyu-pro6.jpg", 
-    bio: "과거 지원서 쓰던 립우에게 한마디 잘 될거니까 그냥 하자!" 
+    bio: "과거 지원서 쓰던 강민이에게 한마디 너 잘할거야." 
   },
   { 
     id: 7, 
-    name: "#순간콜렉터", 
+    name: "#사랑댕댕이", 
     profileImgs: [
       "images/liyu17.jpg", 
       "images/liyu18.jpg"
     ], 
     detailImg: "images/liyu-pro7.jpg", 
-    bio: "지금 립우에게 힘이 되는 한마디는 잘 하고 있어 걱정마!" 
+    bio: "지금 강민이에게 힘이 되는 한마디는 걱정하지 말고 직진! 걱정하고 긴장해도 바뀌는거 없다." 
   },
   { 
     id: 8, 
-    name: "#미대오빠", 
+    name: "#기대해유~강민", 
     profileImgs: [
       "images/liyu31.jpg", 
       "images/liyu30.jpg"
     ], 
     detailImg: "images/liyu-pro8.jpg", 
-    bio: "미래 파이널을 앞둔 립우에게 한마디 이번에도 잘 할 수 있어!" 
+    bio: "미래 파이널을 앞둔 강민이에게 한마디 데뷔하자!!" 
   },
   { 
     id: 9, 
-    name: "#버니립우", 
+    name: "#내가 최고얌", 
     profileImgs: [
       "images/liyu16.jpg", 
       "images/liyu15.jpg"
     ], 
     detailImg: "images/liyu-pro9.jpg", 
-    bio: "베스트 초이스 리부초이 놓치지 마세요!" 
+    bio: "강민이가 남기는 말 한마디 행복하게 해드릴게요 ㅎㅎ" 
   }
 ];
 
@@ -177,7 +177,7 @@ function App() {
     React.createElement("h1", {
       className: "text-2xl sm:text-3xl font-bold mb-6 fixed top-4 left-4 z-50",
       style: { fontFamily: "Sequel100Black, sans-serif" }
-    }, "CHUEI LI YU"),
+    }, "YOO KANG MIN"),
 
     // 카드 그리드
     React.createElement(
