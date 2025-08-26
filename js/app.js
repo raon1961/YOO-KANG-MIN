@@ -3,8 +3,8 @@ const members = [
     id: 1, 
     name: "WE WANT", 
     profileImgs: [
-      "images/min4.jpg", 
-      "images/min5.jpg"
+      "images/min24.jpg", 
+      "images/min23.jpg"
     ], 
     detailImg: "images/min-pro1.gif", 
     bio: "강민이가 생각한 강민이의 이미지는 잘생긴 강아지." 
