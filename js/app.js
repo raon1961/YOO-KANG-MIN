@@ -3,7 +3,6 @@ const members = [
     id: 1, 
     name: "WE WANT", 
     profileImgs: [
-      "images/min3.jpg", 
       "images/min4.jpg", 
       "images/min5.jpg"
     ], 
