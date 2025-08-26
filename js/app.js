@@ -3,93 +3,94 @@ const members = [
     id: 1, 
     name: "WE WANT", 
     profileImgs: [
-      "images/liyu8.jpg", 
-      "images/liyu9.jpg", 
-      "images/liyu7.jpg"
+      "images/min3.jpg", 
+      "images/min4.jpg", 
+      "images/min5.jpg"
     ], 
-    detailImg: "images/liyu-pro1.jpg", 
+    detailImg: "images/min-pro1.gif", 
     bio: "강민이가 생각한 강민이의 이미지는 잘생긴 강아지." 
   },
   { 
     id: 2, 
     name: "YOO KANG MIN'S", 
     profileImgs: [
-      "images/liyu44.jpg", 
-      "images/liyu45.jpg", 
-      "images/liyu46.jpg"
+      "images/min6.jpg", 
+      "images/min7.jpg", 
+      "images/min8.jpg"
     ], 
-    detailImg: "images/liyu-pro2.jpg", 
+    detailImg: "images/min-pro2.jpg", 
     bio: "강민이가 연습하며 생긴 습관은 주변을 많이 챙기기." 
   },
   { 
     id: 3, 
     name: "DEBUT", 
     profileImgs: [
-      "images/liyu40.jpg", 
-      "images/liyu39.jpg"
+      "images/min1.jpg", 
+      "images/min2.jpg"
     ], 
-    detailImg: "images/liyu-pro3.jpg", 
+    detailImg: "images/min-pro3.jpg", 
     bio: "강민이가 도전하고 싶은 무대 컨셉은 귀여운 청량 컨셉!" 
   },
   { 
     id: 4, 
-    name: "崔立于", 
+    name: "柳岡旻", 
     profileImgs: [
-      "images/liyu32.jpg", 
-      "images/liyu33.jpg"
+      "images/min9.jpg", 
+      "images/min10.jpg"
     ], 
-    detailImg: "images/liyu-pro4.jpg", 
+    detailImg: "images/min-pro4.jpg", 
     bio: "강민이의 최대 강점은 웃는 걸 제일 잘해요!" 
   },
   { 
     id: 5, 
     name: "유강민", 
     profileImgs: [
-      "images/liyu35.jpg", 
-      "images/liyu34.jpg"
+      "images/min13.jpg", 
+      "images/min14.jpg"
     ], 
-    detailImg: "images/liyu-pro5.jpg", 
+    detailImg: "images/min-pro5.jpg", 
     bio: "하루하루를 소중하게 여기고 무대 하나하나에 제가 할 수 있는 최선을 다하겠습니다!" 
   },
   { 
     id: 6, 
     name: "YOO KANG MIN", 
     profileImgs: [
-      "images/liyu22.jpg", 
-      "images/liyu23.jpg",
-      "images/liyu24.jpg"
+      "images/min15.jpg", 
+      "images/min16.jpg",
+      "images/min17.jpg"
     ], 
-    detailImg: "images/liyu-pro6.jpg", 
+    detailImg: "images/min-pro6.jpg", 
     bio: "과거 지원서 쓰던 강민이에게 한마디 너 잘할거야." 
   },
   { 
     id: 7, 
     name: "#사랑댕댕이", 
     profileImgs: [
-      "images/liyu17.jpg", 
-      "images/liyu18.jpg"
+      "images/min11.jpg", 
+      "images/min12.jpg"
     ], 
-    detailImg: "images/liyu-pro7.jpg", 
+    detailImg: "images/min-pro7.jpg", 
     bio: "지금 강민이에게 힘이 되는 한마디는 걱정하지 말고 직진! 걱정하고 긴장해도 바뀌는거 없다." 
   },
   { 
     id: 8, 
     name: "#기대해유~강민", 
     profileImgs: [
-      "images/liyu31.jpg", 
-      "images/liyu30.jpg"
+      "images/min21.jpg", 
+      "images/min22.jpg"
     ], 
-    detailImg: "images/liyu-pro8.jpg", 
+    detailImg: "images/min-pro8.jpg", 
     bio: "미래 파이널을 앞둔 강민이에게 한마디 데뷔하자!!" 
   },
   { 
     id: 9, 
     name: "#내가 최고얌", 
     profileImgs: [
-      "images/liyu16.jpg", 
-      "images/liyu15.jpg"
+      "images/min18.jpg", 
+      "images/min19.jpg",
+      "images/min20.jpg"
     ], 
-    detailImg: "images/liyu-pro9.jpg", 
+    detailImg: "images/min-pro9.gif", 
     bio: "강민이가 남기는 말 한마디 행복하게 해드릴게요 ㅎㅎ" 
   }
 ];
